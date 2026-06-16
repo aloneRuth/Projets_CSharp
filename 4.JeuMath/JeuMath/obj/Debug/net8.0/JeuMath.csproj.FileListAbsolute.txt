@@ -1,0 +1,14 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\bin\Debug\net8.0\JeuMath.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\bin\Debug\net8.0\JeuMath.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\bin\Debug\net8.0\JeuMath.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\bin\Debug\net8.0\JeuMath.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\bin\Debug\net8.0\JeuMath.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\refint\JeuMath.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\JeuMath.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuMath\JeuMath\obj\Debug\net8.0\ref\JeuMath.dll

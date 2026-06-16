@@ -1,0 +1,14 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\bin\Debug\net9.0\JeuPendu.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\bin\Debug\net9.0\JeuPendu.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\bin\Debug\net9.0\JeuPendu.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\bin\Debug\net9.0\JeuPendu.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\bin\Debug\net9.0\JeuPendu.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\refint\JeuPendu.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\JeuPendu.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\JeuPendu\JeuPendu\obj\Debug\net9.0\ref\JeuPendu.dll

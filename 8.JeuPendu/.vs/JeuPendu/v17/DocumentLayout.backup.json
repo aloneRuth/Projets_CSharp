@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\JeuPendu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEB0E4F-29E6-4522-9304-E10DA6F14D92}|JeuPendu\\JeuPendu.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\jeupendu\\jeupendu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEB0E4F-29E6-4522-9304-E10DA6F14D92}|JeuPendu\\JeuPendu.csproj|solutionrelative:jeupendu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\JeuPendu\\JeuPendu\\Program.cs",
+              "RelativeDocumentMoniker": "JeuPendu\\Program.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\JeuPendu\\JeuPendu\\Program.cs*",
+              "RelativeToolTip": "JeuPendu\\Program.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwHcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:54:05.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

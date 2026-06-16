@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\3.Phrases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8790368E-1E33-4A14-8287-528CDC1EB6BF}|Phrases\\Phrases.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\3.phrases\\phrases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8790368E-1E33-4A14-8287-528CDC1EB6BF}|Phrases\\Phrases.csproj|solutionrelative:phrases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\3.Phrases\\Phrases\\Program.cs",
+              "RelativeDocumentMoniker": "Phrases\\Program.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\3.Phrases\\Phrases\\Program.cs",
+              "RelativeToolTip": "Phrases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T16:52:15.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

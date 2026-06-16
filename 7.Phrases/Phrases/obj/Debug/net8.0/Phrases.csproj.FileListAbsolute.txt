@@ -1,0 +1,14 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\bin\Debug\net8.0\Phrases.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\bin\Debug\net8.0\Phrases.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\bin\Debug\net8.0\Phrases.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\bin\Debug\net8.0\Phrases.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\bin\Debug\net8.0\Phrases.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\refint\Phrases.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\Phrases.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\3.Phrases\Phrases\obj\Debug\net8.0\ref\Phrases.dll

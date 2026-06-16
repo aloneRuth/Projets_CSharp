@@ -1,0 +1,14 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\bin\Debug\net8.0\NombreMagique.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\bin\Debug\net8.0\NombreMagique.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\bin\Debug\net8.0\NombreMagique.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\bin\Debug\net8.0\NombreMagique.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\bin\Debug\net8.0\NombreMagique.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\refint\NombreMagique.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\NombreMagique.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\NombreMagique\NombreMagique\obj\Debug\net8.0\ref\NombreMagique.dll

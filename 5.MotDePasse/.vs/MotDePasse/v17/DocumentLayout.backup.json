@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\MotDePasse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6481E5B0-5930-47BB-A94C-60DAAFEE5D00}|MotDePasse\\MotDePasse.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\motdepasse\\motdepasse\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481E5B0-5930-47BB-A94C-60DAAFEE5D00}|MotDePasse\\MotDePasse.csproj|solutionrelative:motdepasse\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481E5B0-5930-47BB-A94C-60DAAFEE5D00}|MotDePasse\\MotDePasse.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\motdepasse\\motdepasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481E5B0-5930-47BB-A94C-60DAAFEE5D00}|MotDePasse\\MotDePasse.csproj|solutionrelative:motdepasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tools.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\MotDePasse\\MotDePasse\\tools.cs",
+              "RelativeDocumentMoniker": "MotDePasse\\tools.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\MotDePasse\\MotDePasse\\tools.cs",
+              "RelativeToolTip": "MotDePasse\\tools.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:40:08.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\MotDePasse\\MotDePasse\\Program.cs",
+              "RelativeDocumentMoniker": "MotDePasse\\Program.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\MotDePasse\\MotDePasse\\Program.cs",
+              "RelativeToolTip": "MotDePasse\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:49:14.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD06F8-6102-47C9-BC21-9704960AC6F2}|Application\\Application.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\application\\application\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD06F8-6102-47C9-BC21-9704960AC6F2}|Application\\Application.csproj|solutionrelative:application\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD06F8-6102-47C9-BC21-9704960AC6F2}|Application\\Application.csproj|c:\\users\\tigom\\desktop\\coding c#\\projets_csharp\\application\\application\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD06F8-6102-47C9-BC21-9704960AC6F2}|Application\\Application.csproj|solutionrelative:application\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\Application\\Application\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\Application\\Application\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "Application\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:29:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilisateurController.cs",
+              "DocumentMoniker": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\Application\\Application\\Controllers\\UtilisateurController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\UtilisateurController.cs",
+              "ToolTip": "C:\\Users\\tigom\\Desktop\\Coding C#\\Projets_CSharp\\Application\\Application\\Controllers\\UtilisateurController.cs",
+              "RelativeToolTip": "Application\\Controllers\\UtilisateurController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:39:25.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

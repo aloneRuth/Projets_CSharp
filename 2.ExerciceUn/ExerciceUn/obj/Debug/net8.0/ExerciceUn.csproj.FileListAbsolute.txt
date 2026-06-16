@@ -1,0 +1,14 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\bin\Debug\net8.0\ExerciceUn.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\bin\Debug\net8.0\ExerciceUn.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\bin\Debug\net8.0\ExerciceUn.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\bin\Debug\net8.0\ExerciceUn.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\bin\Debug\net8.0\ExerciceUn.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\refint\ExerciceUn.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ExerciceUn.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\ExerciceUn\ExerciceUn\obj\Debug\net8.0\ref\ExerciceUn.dll
