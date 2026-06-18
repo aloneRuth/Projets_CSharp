@@ -1,0 +1,15 @@
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\bin\Debug\net9.0\PizzaApp.exe
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\bin\Debug\net9.0\PizzaApp.deps.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\bin\Debug\net9.0\PizzaApp.runtimeconfig.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\bin\Debug\net9.0\PizzaApp.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\bin\Debug\net9.0\PizzaApp.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.AssemblyInfo.cs
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.sourcelink.json
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\refint\PizzaApp.dll
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.pdb
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\PizzaApp.genruntimeconfig.cache
+C:\Users\tigom\Desktop\Coding C#\Projets_CSharp\PizzaApp\PizzaApp\obj\Debug\net9.0\ref\PizzaApp.dll
